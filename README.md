@@ -1,9 +1,19 @@
-# micro_finance
+# Micro Finance
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+A lightweight tool for calculating simple interest.
+
+**Formula**
+
+```
+Simple Interest = P × R × T
+```
+
+**Inputs**
+
+* **P**: Principal amount
+* **R**: Annual interest rate
+* **T**: Time in years
+
+**Output**
+
+* Calculated simple interest
